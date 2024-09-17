@@ -9,3 +9,4 @@ A template repository to publish games
 5. [SpaceRocks V2](SpaceRocks2)
 6. [SpaceRocks V3](SpaceRocks3)
 7. [SpaceRocks V4](SpaceRocks4)
+8. [Spacerocks Final](SpaceRocksFinal)
