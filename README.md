@@ -12,4 +12,4 @@ A template repository to publish games
 8. [SpaceRocks V4](SpaceRocks4)
 9. [Spacerocks Final](SpaceRocksFinal)
 10. [Car Dash, Project 1](CarDashFin)
-11. [MiniGold Day 1](day1)
+11. [MiniGolf Day 1](day1)
