@@ -13,3 +13,5 @@ A template repository to publish games
 9. [Spacerocks Final](SpaceRocksFinal)
 10. [Car Dash, Project 1](CarDashFin)
 11. [MiniGolf Day 1](day1)
+12. [MiniGolf Day 2](day2)
+13. [MiniGolf Day 3](day3)
