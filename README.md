@@ -15,3 +15,5 @@ A template repository to publish games
 11. [MiniGolf Day 1](day1)
 12. [MiniGolf Day 2](day2)
 13. [MiniGolf Day 3](day3)
+14. [Jungle Jump day 1](JungleJumpDay1)
+15. [Jungle Jump day 2](JungleJumpDay2)
