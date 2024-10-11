@@ -29,3 +29,7 @@ Jungle Jump:
 4. [Jungle Jump day 4](JungleJumpDay4)
 5. [Jungle Jump day 5](JungleJumpDay5)
 6. [Jungle Jump day 6](JungleJumpDay6)
+
+Project 2:
+I made texture changes for the player, enemy, rocks, background, and play trail animation. The point system is different smaller rocks give you more points. The game now runs off of a timer system rather than it being round based.
+1. [Coral Splash](CoralSplash)
