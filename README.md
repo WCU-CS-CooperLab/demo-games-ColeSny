@@ -27,4 +27,5 @@ Jungle Jump:
 2. [Jungle Jump day 2](JungleJumpDay2)
 3. [Jungle Jump day 3](JungleJumpDay3)
 4. [Jungle Jump day 4](JungleJumpDay4)
-
+5. [Jungle Jump day 5](JungleJumpDay5)
+6. [Jungle Jump day 6](JungleJumpDay6)
