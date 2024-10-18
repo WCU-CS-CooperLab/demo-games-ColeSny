@@ -35,5 +35,5 @@ I made texture changes for the player, enemy, rocks, background, and play trail 
 1. [Coral Splash](CoralSplash)
 
 Infinite Flyer:
-1.[Day one, making the plane, can move](Day1Flyer)
-2.[Day two, adding the map looks good](Day2Flyer)
+1. [Day one, making the plane, can move](Day1Flyer)
+2. [Day two, adding the map looks good](Day2Flyer)
