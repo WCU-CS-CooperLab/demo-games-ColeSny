@@ -37,3 +37,8 @@ I made texture changes for the player, enemy, rocks, background, and play trail 
 Infinite Flyer:
 1. [Day one, making the plane, can move](Day1Flyer)
 2. [Day two, adding the map looks good](Day2Flyer)
+
+Project 3: 
+I added a speed boost so far. I am struggling with 3D game dev, my plans are to add a day-night cycle, add plane customization, and lastly add a timer to the game to add another form of keeping score. I'd also like to change up the music, but time will tell if I can get the other changes done in a propper fashion.
+1. [Phase 1, infinite flyer]()
+2. [Phase 2, adding speed boost](Proj3Phase2)
