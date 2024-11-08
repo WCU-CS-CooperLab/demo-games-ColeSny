@@ -45,3 +45,9 @@ Project 3:
 I added a speed boost so far. I am struggling with 3D game dev, my plans are to add a day-night cycle, add plane customization, and lastly add a timer to the game to add another form of keeping score. I'd also like to change up the music, but time will tell if I can get the other changes done in a proper fashion.
 1. [Phase 1, infinite flyer](FinishedFlyer)
 2. [Phase 2, adding speed boost](Proj3Phase2)
+
+Group Project Project 1: 
+# Treasure of the Stone Bridge
+In Treasure of the Stone Bridge, players embark on an unexpected adventure that begins at their peaceful home. When a sudden collapse sends them plummeting through a broken bridge and into a portal, they find themselves lost in a series of strange and captivating realms. To find their way back, players must navigate these mystical worlds, each holding unique trials and elusive, radiant gems. Only by gathering these precious treasures from each realm can they unlock the path home. With every portal presenting fresh challenges and surprises, Treasure of the Stone Bridge offers an unforgettable journey filled with exploration, strategy, and a touch of magic.
+[Phase1](JungleJumpDay6)
+[Play the game here](GroupProject1)
