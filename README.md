@@ -49,5 +49,7 @@ I added a speed boost so far. I am struggling with 3D game dev, my plans are to 
 Group Project Project 1: 
 # Treasure of the Stone Bridge
 In Treasure of the Stone Bridge, players embark on an unexpected adventure that begins at their peaceful home. When a sudden collapse sends them plummeting through a broken bridge and into a portal, they find themselves lost in a series of strange and captivating realms. To find their way back, players must navigate these mystical worlds, each holding unique trials and elusive, radiant gems. Only by gathering these precious treasures from each realm can they unlock the path home. With every portal presenting fresh challenges and surprises, Treasure of the Stone Bridge offers an unforgettable journey filled with exploration, strategy, and a touch of magic.
+
 [Phase1](JungleJumpDay6)
+
 [Play the game here](GroupProject1)
