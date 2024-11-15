@@ -16,7 +16,7 @@ Space Rocks:
 
 Project 1, The original game was coin dash. The changes I made were changing the character to a car, changing the physics of the car, changing the textures of the coins as well as the time increase:
 1. [Phase 1](CompleteCoinDash)
-1. [Car Dash, Project 1](CarDashFin)
+2. [Car Dash, Project 1](CarDashFin)
 
 Mini Golf 3D:
 1. [MiniGolf Day 1](day1)
@@ -33,7 +33,8 @@ Jungle Jump:
 
 Project 2:
 I made texture changes for the player, enemy, rocks, background, and play trail animation. The point system is different smaller rocks give you more points. The game now runs off of a timer system rather than it being round based.
-1. [Coral Splash](CoralSplash)
+1. [Phase 1, Space Rocks](SpaceRocksFinal)
+2. [Coral Splash](CoralSplash)
 
 Infinite Flyer:
 1. [Day one, making the plane, can move](Day1Flyer)
