@@ -17,6 +17,7 @@ Space Rocks:
 Project 1, The original game was Coin Dash. The changes I made were changing the character to a car, changing the physics of the car, adding the exhaust animation to the player, changing the textures of the coins as well as changing the power up from a speed boost to a time increase, I also added more time to change the mechanics of the game:
 1. [Phase 1](CompleteCoinDash)
 2. [Car Dash, Project 1](CarDashFin)
+3. [Car Dash, phase2](phase2CarDash)
 
 Mini Golf 3D:
 1. [MiniGolf Day 1](day1)
