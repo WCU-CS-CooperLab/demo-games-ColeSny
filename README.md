@@ -33,9 +33,10 @@ Jungle Jump:
 6. [Jungle Jump day 6](JungleJumpDay6)
 
 Project 2:
-I made texture changes for the player, enemy, rocks, background, and play trail animation. The point system is different smaller rocks give you more points. The game now runs off of a timer system rather than it being round based.
+I made texture changes for the player, enemy, rocks, background, and play trail animation. The point system is different smaller rocks give you more points. The game now runs off of a timer system rather than it being round based, I also added a sponge that stops the player from moving (it makes the game frustrating). SO the 4 changes are, the theme, the player (the trail and hit box), sponge that stops you, point system, and making the game timer base.
 1. [Phase 1, Space Rocks](SpaceRocksFinal)
 2. [Coral Splash](CoralSplash)
+3. [Coral Splash Phase 2](CoralSplashphase2)
 
 Infinite Flyer:
 1. [Day one, making the plane, can move](Day1Flyer)
