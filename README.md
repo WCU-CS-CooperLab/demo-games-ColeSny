@@ -14,7 +14,7 @@ Space Rocks:
 4. [SpaceRocks V4](SpaceRocks4)
 5. [Spacerocks Final](SpaceRocksFinal)
 
-Project 1, The original game was coin dash. The changes I made were changing the character to a car, changing the physics of the car, changing the textures of the coins as well as the time increase:
+Project 1, The original game was Coin Dash. The changes I made were changing the character to a car, changing the physics of the car, adding the exhaust animation to the player, changing the textures of the coins as well as changing the power up from a speed boost to a time increase, I also added more time to change the mechanics of the game:
 1. [Phase 1](CompleteCoinDash)
 2. [Car Dash, Project 1](CarDashFin)
 
