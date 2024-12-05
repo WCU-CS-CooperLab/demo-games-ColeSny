@@ -45,9 +45,10 @@ I made texture changes for the player, enemy, rocks, background, and play trail 
 4. [Finished Game, infinite flyer](FinishedFlyer)
 
 # Project 3: 
-I added a speed boost so far. I am struggling with 3D game dev, my plans are to add a day-night cycle, add plane customization, and lastly add a timer to the game to add another form of keeping score. I'd also like to change up the music, but time will tell if I can get the other changes done in a proper fashion.
+This is my third project of the semester, its base game is Infinite Flyer. The game is now called Night Flyer. The 4 changes ive made are making the skybox a new HDR file to make the game at night as well as changing the title screen background. Ive changed the ground texture to grass. Ive added a timer to show how long the player is flying for. Lastly, ive added a speed boost for the player to fly into.
 1. [Phase 1, infinite flyer](FinishedFlyer)
 2. [Phase 2, adding speed boost](Proj3Phase2)
+3. [Night Flyer](NightFlyer)
 
 Group Project Project 1: 
 # Treasure of the Stone Bridge
