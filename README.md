@@ -61,6 +61,6 @@ In Treasure of the Stone Bridge, players embark on an unexpected adventure that 
 # Project 4:
 This game is a multiplayer quiz that can hold up to 3 players. The game is based on the quiz game we had made in class, I have changed the theme to be classic rock questions and rock themed. The log in instructions are on the screen, you can choose from user1, user2, or user3 and the password will always be test.
 
-[Classic Rock Quiz | Demo](RockQuizv1)
-[Classic Rock Quiz Windows](RockQuizWindows)
+* [Classic Rock Quiz | Demo](RockQuizv1)
+* [Classic Rock Quiz Windows](RockQuizWindows)
 * Mac export did not work [See Picture](MacExportError.png)
