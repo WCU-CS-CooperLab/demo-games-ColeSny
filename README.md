@@ -59,6 +59,6 @@ In Treasure of the Stone Bridge, players embark on an unexpected adventure that 
 [Play the game here](GroupProject1)
 
 # Project 4:
-I am having a super hard time with the online porting of this project, the base game is the quiz we made in class from the multiplayer textbook, I have gone thorugh and changed all of the questions to be classic rock questions, ive added a background to the scenes, and ive changed some of the text prompts. The main thing im really struggeling with is the multiplayer part. Im lost on where/how to export, how I can skip user authentication so the players can just enter a name and play, I have not really grasped this topic from the teaching or from the textbook.
+This game is a multiplayer quiz that can hold up to 3 players. The game is based on the quiz game we had made in class, I have changed the theme to be classic rock questions and rock themed. The log in instructions are on the screen, you can choose from user1, user2, or user3 and the password will always be test.
 
-[Rock Quiz v1](RockQuizv1)
+[Classic Rock Quiz](RockQuizv1)
