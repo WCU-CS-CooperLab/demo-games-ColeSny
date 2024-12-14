@@ -60,8 +60,8 @@ Group Project Project 1:
 [Play the game here](GroupProject1)
 
 # Project 4:
-*This game is a multiplayer quiz that can hold up to 3 players. The game is based on the quiz game we had made in class, I have changed the theme to be classic rock questions and rock-themed. The login instructions are on the screen, you can choose from user1, user2, or user3 and the password will always be "test". More information on the game can be found in my GameDevWorkbench repo under the writeup folder.
+*This game is a multiplayer quiz that can hold up to 8 players. The game is based on the quiz game we had made in class, I have changed the theme to be classic rock questions and rock-themed, there is a chat, and a scoreboard. The login instructions are on the screen, you can choose from user[1-8] and the password will always be "test". More information on the game can be found in my GameDevWorkbench repo under the writeup folder. The most recent iteration has been a fresh restart, current issue of not being able to restart the server once the game is complete, I have to manually restart the server.
 
-* [Classic Rock Quiz Demo](RockQuizv1)
-* [Classic Rock Quiz Windows](RockQuizWindows)
-* Mac export did not work [See Picture](MacExportError.png)
+* [Classic Rock Quiz Demo](RockQuizV2web)
+* [Classic Rock Quiz Windows](RockQuizV2Windows)
+* [Classic Rock Quiz Mac](RockQuizV2Mac)
